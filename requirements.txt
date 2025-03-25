@@ -1,0 +1,11 @@
+langchain
+langchain-community
+faiss-cpu
+transformers
+torch --index-url https://download.pytorch.org/whl/cpu
+pypdf
+sentence-transformers
+accelerate
+bitsandbytes
+sentencepiece
+gradio

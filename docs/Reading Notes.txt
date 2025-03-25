@@ -1,0 +1,27 @@
+Types of question in the TOEFL Reading Section
+
+1 - Vocabulary: read the sentence and mark the word or expression that best fits on ("What does it mean?")
+2 - Detail: look for content words of the question (how, when, why)
+3 - Inference: [more difficult] do the same as the detail question, except by jamming it (imply, suggest)
+
+(Example:
+
+"30% of the apples are green." What does that mean?
+
+In a detail question -> "How many apples are green?" 30%
+In an inference question -> 70% of the apples are not green
+)
+
+4 - Pronoun: (singular or plural) look at the nouns before the pronoun, and find the one which best fits in the sentence - not very common
+5 - Plugin: fit the sentence in the keywords to find the content word in a sentence you have to plugin, find where it appears in the reading, and make sure to choose an answer next to that.
+
+(Example:
+
+given the word "apples", find the best postion for it
+)
+
+6 - Paraphrase: focus on the main, independent clause, focus on one piece at a time, and double-check the anser; if the answer mentions that piece, keep it; if not, it's not good
+
+7 - Summary: determine if the answer summarizes the topic (first sentenceon the paragraph)
+
+8 - Purpose: ("Why does the author mention/uses...") / ("What's the purpose of this content?") look for the sentence before the keyword of the question
