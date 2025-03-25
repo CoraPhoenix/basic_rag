@@ -12,13 +12,17 @@ The app also contains a simple data updater, which regenerates vector data every
 
 The app layout contains two tabs: the first one, where you ask the bot; and the second one, where you can upload documents to add more information to the source.
 
-The "Ask the bot" tab contains a simple input field, where you type your question, an answer field where the bot response is displayed, and a basic history which preserves some answers. The history is erased when the app finishes running.
+The "Ask the bot" tab contains a simple input field, where you type your question, an answer field where the bot response is displayed.
 
-<!-- insert image here -->
+![ask_the_bot_tab](img/app_tab_ask_the_bot.png)
+
+When the bot generates a response, it shows up in the answer field, and a basic history which preserves some answers starts being filled. The history is erased when the app finishes running.
+
+![bot_answer](img/app_tab_bot_answer.png)
 
 The "Upload documents" tab is even simpler: all it has is a button, which should be clicked to update files.
 
-<!-- insert image here -->
+![bot_answer](img/app_tab_upload.png)
 
 ### Known limitations and issues
 
